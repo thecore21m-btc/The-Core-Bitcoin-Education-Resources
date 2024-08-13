@@ -1,4 +1,4 @@
-(https://github.com/thecore21m-btc/The-Core-Bitcoin-Education-Resources/blob/main/Bitcoin%20Wallets/thecorelogo.png)
+[TheCore Logo](https://github.com/thecore21m-btc/The-Core-Bitcoin-Education-Resources/blob/main/Bitcoin%20Wallets/thecorelogo.png)
 
 ## Bitcoin Software Wallets
 
