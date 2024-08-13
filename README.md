@@ -1,5 +1,5 @@
 # Core Bitcoin Education Resources
-[Bitcoin Resources](https://raw.githubusercontent.com/thecore21m-btc/The-Core-Bitcoin-Education-Resources/blob/main/Bitcoin%20Resources.jpg)
+![Bitcoin Resources](https://raw.githubusercontent.com/thecore21m-btc/The-Core-Bitcoin-Education-Resources/blob/main/Bitcoin%20Resources.jpg)
 
 Welcome to the **Core Bitcoin Education Resources** repository! This repository is designed to provide comprehensive resources to help you learn about Bitcoin and its related technologies. Below, you'll find an overview of the resource folders included in this repository.
 
