@@ -1,4 +1,4 @@
-# 🌐 The Core Bitcoin Education Resources
+# 🌐 Bitcoin Education Resources
 
 ![Bitcoin Resources](https://github.com/thecore21m-btc/The-Core-Bitcoin-Education-Resources/blob/main/Bitcoin%20Education.jpg)
 
