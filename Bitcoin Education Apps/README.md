@@ -1,35 +1,36 @@
-# 📱 Bitcoin Education Apps
+# 📚 BITCOIN EDUCATION APP
 
-Welcome to the **Bitcoin Education Apps** folder! Here, you'll find various applications that are essential for learning about Bitcoin. These apps are designed to help you understand and interact with Bitcoin effectively.
+## 📱 Download the Yzer App
 
-## 📜 Included Apps
+Enhance your Bitcoin knowledge with the [Yzer app](https://play.google.com/store/apps/details?id=io.wizzer.academy)! It’s perfect for self-paced learning and extremely convenient. When creating an account, use the referral code `FELIXBTC`, which is the referral code of Felix Mukungu, the founder of 'The Core' Bitcoin community.
 
-- **🔗 [Blink Bitcoin Wallet](https://get.blink.sv/taproot1)**
-  - A popular Bitcoin wallet with easy setup and fast transactions.
+🔗 **Referral Code:** `FELIXBTC`
 
-- **🔗 [Wallet of Satoshi](https://play.google.com/store/apps/details?id=com.livingroomofsatoshi.wallet)**
-  - A user-friendly wallet that supports secure Bitcoin transactions.
+👉 **Download Yzer App:** [Click here](https://play.google.com/store/apps/details?id=io.wizzer.academy)
 
-- **🔗 [Phoenix Bitcoin Wallet](https://play.google.com/store/apps/details?id=fr.acinq.phoenix.mainnet)**
-  - A non-custodial wallet offering enhanced security with 12-word recovery phrases.
+## 🌐 Join Our Community
 
-- **🔗 [Machankura](#)**
-  - A USSD-based Bitcoin wallet for offline transactions in select countries.
+Stay connected and updated with Bitcoin news and updates by joining our community. We encourage you to follow us on Twitter and join our community groups to stay informed about the latest Bitcoin developments.
 
-## 🚀 How to Use
+🔗 **Linktree:** [The Core Community](https://linktr.ee/thecore21m)
 
-1. **Download and Install**: Click on the links to download and install the apps on your device.
-2. **Create an Account**: Follow the setup instructions to create your wallet accounts.
-3. **Explore**: Use these apps to learn more about Bitcoin and its functionalities.
+## 📧 For Inquiries or Guidance
 
-## 📝 Notes
+Feel free to reach out to us for any inquiries or guidance:
 
-- Make sure to keep your recovery phrases safe.
-- If you encounter any issues, refer to the app’s support documentation or reach out to our community.
+- **Email:** [connect@thecore.africa](mailto:connect@thecore.africa)
+- **Phone:** +254 741 968 451
 
-## 📧 Contact
+## 👤 Founder
 
-For any questions or support, please contact us at:
-- **Email**: connect@thecore.africa
-- **Phone**: +254 741 968 451
+**Felix Mukungu**
+Founder, The Core
+- **Email:** [felixongoma43@gmail.com](mailto:felixongoma43@gmail.com)
+- **Phone:** +254 743 228 280
 
+---
+
+Thank you for your interest and support in Bitcoin education!
+
+Best Regards,
+Felix Mukungu
