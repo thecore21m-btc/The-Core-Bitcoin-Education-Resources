@@ -1,7 +1,3 @@
-# Course Resources and Downloads
-
-Welcome to our course! Throughout our sessions, we will utilize multiple applications. Below, you can find the links to download each application.
-
 ## Bitcoin Software Wallets
 
 Bitcoin software wallets will facilitate the management of your Bitcoin. With these wallets, you can easily send or receive Bitcoin worldwide at lightning speed. Please download and create an account in each of the wallets listed below. If you encounter any issues, feel free to reach out to us—our contact details are provided at the end of this document.
