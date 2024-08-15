@@ -55,4 +55,4 @@ The Core - Bitcoin Education is an educational initiative founded by Felix Mukun
 
 ---
 
-Thank you for using The Core Bitcoin Education Resources! Happy learning! 🎓
+Thank you for using The Core - Bitcoin Education Resources! Happy learning! 🎓
