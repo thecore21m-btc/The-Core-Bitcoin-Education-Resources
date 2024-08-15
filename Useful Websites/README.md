@@ -30,10 +30,3 @@ To join our community and stay updated, click on the Linktree link below. We als
 For any inquiries or guidance, please reach out to us:
 - **Email**: [connect@thecore.africa](mailto:connect@thecore.africa) 📩
 - **Phone**: +254 741 968 451 📞
-
-## Regards,
-
-**Felix Mukungu**  
-Founder, The Core  
-[felixongoma43@gmail.com](mailto:felixongoma43@gmail.com) 📧  
-+254 743 228 280 📞
