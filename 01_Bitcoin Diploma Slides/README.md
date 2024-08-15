@@ -1,4 +1,4 @@
-# 🖼️ The Core - Bitcoin Education Diploma Slides
+# 🖼️ Bitcoin Diploma Slides
 
 Welcome to the **Bitcoin Diploma Slides** folder! This collection of slides is part of the Bitcoin Diploma curriculum, designed to give you a structured and visual way to learn about Bitcoin. Each slide deck covers various topics, from the basics to more advanced concepts.
 
