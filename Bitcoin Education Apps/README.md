@@ -2,9 +2,7 @@
 
 ## 📱 Download the Yzer App
 
-Enhance your Bitcoin knowledge with the [Yzer app](https://play.google.com/store/apps/details?id=io.wizzer.academy)! It’s perfect for self-paced learning and extremely convenient. When creating an account, use the referral code `FELIXBTC`, which is the referral code of Felix Mukungu, the founder of 'The Core' Bitcoin community.
-
-🔗 **Referral Code:** `FELIXBTC`
+Enhance your Bitcoin knowledge with the [Yzer app](https://play.google.com/store/apps/details?id=io.wizzer.academy)! It’s perfect for self-paced learning and extremely convenient.
 
 👉 **Download Yzer App:** [Click here](https://play.google.com/store/apps/details?id=io.wizzer.academy)
 
@@ -31,6 +29,3 @@ Founder, The Core
 ---
 
 Thank you for your interest and support in Bitcoin education!
-
-Best Regards,
-Felix Mukungu
