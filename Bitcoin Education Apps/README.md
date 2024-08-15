@@ -18,14 +18,6 @@ Feel free to reach out to us for any inquiries or guidance:
 
 - **Email:** [connect@thecore.africa](mailto:connect@thecore.africa)
 - **Phone:** +254 741 968 451
-
-## 👤 Founder
-
-**Felix Mukungu**
-Founder, The Core
-- **Email:** [felixongoma43@gmail.com](mailto:felixongoma43@gmail.com)
-- **Phone:** +254 743 228 280
-
 ---
 
 Thank you for your interest and support in Bitcoin education!
