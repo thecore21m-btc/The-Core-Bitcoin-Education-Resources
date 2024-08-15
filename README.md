@@ -53,9 +53,6 @@ Stay updated with the latest Bitcoin information by joining our community. You c
 
 The Core - Bitcoin Education is an educational initiative founded by Felix Mukungu to help individuals understand Bitcoin and its impact on the world. We believe that education is the key to empowering individuals to take control of their financial future.
 
-**Founder**: Felix Mukungu  
-**Contact**: felixongoma43@gmail.com | +254 743 228 280
-
 ---
 
 Thank you for using The Core Bitcoin Education Resources! Happy learning! 🎓
