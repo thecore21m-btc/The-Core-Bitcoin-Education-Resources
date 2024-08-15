@@ -47,7 +47,7 @@ If you have any questions or need assistance with the resources provided, please
 
 Stay updated with the latest Bitcoin information by joining our community. You can find our community links and more information here:
 
-- **Linktree**: [The Core - Bitcoin - Education Community](https://linktr.ee/thecore21m)
+- **Linktree**: [The Core - Bitcoin Education Community](https://linktr.ee/thecore21m)
 
 ## 🏫 About The Core - Bitcoin Education
 
