@@ -17,7 +17,6 @@ Stay connected and updated with Bitcoin news and updates by joining our communit
 Feel free to reach out to us for any inquiries or guidance:
 
 - **Email:** [connect@thecore.africa](mailto:connect@thecore.africa)
-- **Phone:** +254 741 968 451
 ---
 
 Thank you for your interest and support in Bitcoin education!
