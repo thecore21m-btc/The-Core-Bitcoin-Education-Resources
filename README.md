@@ -65,7 +65,6 @@ The **Bitcoin Education Apps** folder contains various applications that will as
 If you have any questions or need assistance with the resources provided, please don't hesitate to reach out:
 
 - **Email**: connect@thecore.africa
-- **Phone**: +254 741 968 451
 
 ## 🌍 Join Our Community
 
