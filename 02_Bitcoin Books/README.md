@@ -21,9 +21,3 @@ Welcome to the **Books** folder! This section contains a collection of eBooks an
 1. **Download**: Click on the links to download the PDFs or eBooks.
 2. **Read**: Explore the contents to gain deeper insights into Bitcoin.
 3. **Learn**: Use the knowledge to enhance your understanding of Bitcoin.
-
-## 📧 Contact
-
-For any inquiries or support, please reach out to us at:
-- **Email**: [connect@thecore.africa](mailto:connect@thecore.africa)
-- **Phone**: +254 741 968 451
