@@ -24,9 +24,3 @@ If you have any questions or need guidance, feel free to reach out.
 To join our community and stay updated, click on the Linktree link below. We also recommend following us on Twitter for the latest updates on Bitcoin, as the protocol is constantly evolving.
 
 - **Linktree**: [Join Us Here](https://linktr.ee/thecore21m) 📝
-
-## 📧 Contact Us
-
-For any inquiries or guidance, please reach out to us:
-- **Email**: [connect@thecore.africa](mailto:connect@thecore.africa) 📩
-- **Phone**: +254 741 968 451 📞
