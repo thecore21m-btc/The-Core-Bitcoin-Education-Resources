@@ -8,7 +8,6 @@ Welcome to the **Books** folder! This section contains a collection of eBooks an
 - **[🔗 Bitcoin Evangelism - FINAL 11](https://github.com/thecore21m-btc/The-Core-Bitcoin-Education-Resources/blob/main/02_Bitcoin%20Books/Bitcoin%20Evangelism%20-%20FINAL%2011.pdf)**
 - **[🔗 Diploma - 2024 - PDF](https://github.com/thecore21m-btc/The-Core-Bitcoin-Education-Resources/blob/main/02_Bitcoin%20Books/Diploma%20-%202024%20-%20PDF.pdf)**
 - **[🔗 Lips-Gold-Wars](https://github.com/thecore21m-btc/The-Core-Bitcoin-Education-Resources/blob/main/02_Bitcoin%20Books/Lips-Gold-Wars.pdf)**
-- **[🔗 Mi Primer Bitcoin - Bitcoin Diploma](https://github.com/thecore21m-btc/The-Core-Bitcoin-Education-Resources/blob/main/02_Bitcoin%20Books/Mi%20Primer%20Bitcoin%20-%20Bitcoin%20Diploma.pdf)**
 - **[🔗 Separation Of Money and State](https://github.com/thecore21m-btc/The-Core-Bitcoin-Education-Resources/blob/main/02_Bitcoin%20Books/Separation%20Of%20Money%20and%20State.pdf)**
 - **[🔗 The Bitcoin Standard](https://github.com/thecore21m-btc/The-Core-Bitcoin-Education-Resources/blob/main/02_Bitcoin%20Books/The%20Bitcoin%20Standard.pdf)**
 - **[🔗 The White Paper](https://github.com/thecore21m-btc/The-Core-Bitcoin-Education-Resources/blob/main/02_Bitcoin%20Books/The%20White%20Paper.pdf)**
